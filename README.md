@@ -5,6 +5,4 @@ hello-world
 
 test
 second test
-
-TESTCIP
-gabi test blah
+third test
